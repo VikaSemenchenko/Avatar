@@ -360,3 +360,6 @@ line-height: normal;
 .social-links {
 display: flex;
 }
+.email-qa {
+    padding: 0 20px;
+}
